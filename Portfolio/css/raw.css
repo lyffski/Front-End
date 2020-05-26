@@ -1,0 +1,164 @@
+
+
+body
+{
+	background-color: #303030;
+	color: #ffffff;
+	font-family: 'Lato', sans-serif;
+	font-size: 20px;
+}
+
+#container{
+   width: 1000px;
+   margin-left: auto;
+   margin-right: auto;
+}
+#header{
+   width: 960px;
+	
+	text-align: center;
+}
+.logo{
+   width: 500px;
+   text-align:left;
+   float: left;
+   font-size: 30px;
+   margin-left: 20px;
+}
+#time{
+   padding-top: 32px;
+   font-size:70px;
+   text-align: center;
+   
+}
+
+
+
+.smallSquare{
+   width: 25%;
+   height: 150px;
+   background-color: #ffffff;
+   float: left;  
+}
+
+
+.smallSquareUser{
+   transition: ease 0.5s;
+   background-color: rgb(57, 147, 221);
+   width: 25%;
+   height: 150px;
+   float: left;  
+}
+
+.smallSquareUser:hover{
+   transition: ease 0.5s;
+   background-color: rgba(48, 124, 187, 0.836);
+}
+
+
+.smallSquareCV{
+   transition: ease 0.5s;
+   width: 25%;
+   height: 150px;
+   background-color: #ffffff;
+   float: left;  
+   background-color: #686868; 
+   margin-top: -149px
+}
+.smallSquareCV:hover{ 
+   transition: ease 0.5s;
+   background-color: #686868b6;
+}
+.smallSquareL{
+   transition: ease 0.5s;
+   width: 25%;
+   height: 150px;
+   background-color: #ffffff;
+   float: left;  
+   margin-left: 20px; 
+   background-color: rgb(57, 147, 221);
+}
+.smallSquareL:hover{
+   transition: ease 0.5s;
+   background-color: rgba(48, 124, 187, 0.836)
+}
+
+.smallSquareCon{
+   transition: ease 0.5s;
+   margin-left: 20px;
+   background-color: rgb(37, 207, 45); 
+   margin-top: -150px;
+   width: 25%;
+   height: 150px;
+   float: left;  
+}
+.smallSquareCon:hover{
+   transition: ease 0.5s;
+   background-color: rgba(37, 207, 46, 0.726); 
+}
+
+
+
+.smallSquareB{
+   width: 25%;
+   height: 150px;
+   background-color: #ffffff;
+}
+
+.bigSquare{
+   width: 45%;
+   height: 320px;
+   background-color: #686868;
+   margin-left: 20px;
+   float: left;
+   
+}
+
+.bottom{
+   background-color: #ffffff;
+   margin-top: 25px;
+   width: 52%;
+   height: 120px;
+   color:black;
+   text-align: center;
+   transition: ease 0.5s;
+}
+.bottom.a{
+   
+   font-family: 'Lato', sans-serif;
+}
+.bottom:hover{
+   transition: ease 0.5s;
+   background-color: #ffffffc7;
+   
+}
+
+a{
+   color: #ffffff;
+   text-decoration: none;
+   
+}
+.g{
+   font-size: 100px;
+}
+
+
+.bottomR{
+   background-color: rgb(255, 93, 35);
+   width: 45%;
+   height: 120px;
+   margin-left: 54%;
+   margin-top: -160px
+}
+.Qu{
+	width: 420px;
+	height: 244px;
+   font-size: 40px;
+   text-align: center;
+   font-family: sans-serif;
+}
+
+.s{
+   margin-top: -185px;
+   margin-left: 2px
+}
